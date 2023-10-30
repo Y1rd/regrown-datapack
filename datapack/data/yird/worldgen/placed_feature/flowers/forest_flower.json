@@ -1,15 +1,15 @@
 {
-  "feature": "yird:forest_grass_patch",
+  "feature": "yird:flowers/forest_flower_patch",
   "placement": [
     {
-      "count": 5,
-      "type": "minecraft:count"
+      "chance": 32,
+      "type": "minecraft:rarity_filter"
     },
     {
       "type": "minecraft:in_square"
     },
     {
-      "heightmap": "WORLD_SURFACE_WG",
+      "heightmap": "MOTION_BLOCKING",
       "type": "minecraft:heightmap"
     },
     {
