@@ -52,6 +52,51 @@
               }
             },
             {
+              "chance": 0.05,
+              "feature": {
+                "feature": {
+                  "type": "minecraft:simple_block",
+                  "config": {
+                    "to_place": {
+                      "type": "minecraft:simple_state_provider",
+                      "state": {
+                        "Name": "minecraft:tall_grass",
+                        "Properties": {
+                          "half": "lower"
+                        }
+                      }
+                    }
+                  }
+                },
+                "placement": [
+                  {
+                    "type": "minecraft:block_predicate_filter",
+                    "predicate": {
+                      "type": "minecraft:matching_blocks",
+                      "offset": [
+                        0,
+                        0,
+                        0
+                      ],
+                      "blocks": "minecraft:air"
+                    }
+                  },
+                  {
+                    "type": "minecraft:block_predicate_filter",
+                    "predicate": {
+                      "type": "minecraft:matching_blocks",
+                      "offset": [
+                        0,
+                        -1,
+                        0
+                      ],
+                      "blocks": "minecraft:grass_block"
+                    }
+                  }
+                ]
+              }
+            },
+            {
               "chance": 0.15,
               "feature": {
                 "feature": {
