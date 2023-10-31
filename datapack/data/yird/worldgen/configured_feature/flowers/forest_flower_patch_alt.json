@@ -1,7 +1,7 @@
 {
   "type": "minecraft:flower",
   "config": {
-      "tries": 72,
+      "tries": 84,
       "xz_spread": 7,
       "y_spread": 1,
       "feature": {
@@ -10,7 +10,91 @@
               "config": {
                   "features": [
                       {
-                          "chance": 0.01,
+                          "chance": 0.30,
+                          "feature": {
+                              "feature": {
+                                  "type": "minecraft:simple_block",
+                                  "config": {
+                                      "to_place": {
+                                          "type": "minecraft:simple_state_provider",
+                                          "state": {
+                                              "Name": "minecraft:allium"
+                                          }
+                                      }
+                                  }
+                              },
+                              "placement": [
+                                  {
+                                      "type": "minecraft:block_predicate_filter",
+                                      "predicate": {
+                                          "type": "minecraft:matching_blocks",
+                                          "offset": [
+                                              0,
+                                              0,
+                                              0
+                                          ],
+                                          "blocks": "minecraft:air"
+                                      }
+                                  },
+                                  {
+                                      "type": "minecraft:block_predicate_filter",
+                                      "predicate": {
+                                          "type": "minecraft:matching_blocks",
+                                          "offset": [
+                                              0,
+                                              -1,
+                                              0
+                                          ],
+                                          "blocks": "minecraft:grass_block"
+                                      }
+                                  }
+                              ]
+                          }
+                      },
+                      {
+                          "chance": 0.30,
+                          "feature": {
+                              "feature": {
+                                  "type": "minecraft:simple_block",
+                                  "config": {
+                                      "to_place": {
+                                          "type": "minecraft:simple_state_provider",
+                                          "state": {
+                                              "Name": "minecraft:cornflower"
+                                          }
+                                      }
+                                  }
+                              },
+                              "placement": [
+                                  {
+                                      "type": "minecraft:block_predicate_filter",
+                                      "predicate": {
+                                          "type": "minecraft:matching_blocks",
+                                          "offset": [
+                                              0,
+                                              0,
+                                              0
+                                          ],
+                                          "blocks": "minecraft:air"
+                                      }
+                                  },
+                                  {
+                                      "type": "minecraft:block_predicate_filter",
+                                      "predicate": {
+                                          "type": "minecraft:matching_blocks",
+                                          "offset": [
+                                              0,
+                                              -1,
+                                              0
+                                          ],
+                                          "blocks": "minecraft:grass_block"
+                                      }
+                                  }
+                              ]
+                          }
+                      },
+                      {
+                          "chance": 0.25,
                           "feature": {
                               "feature": {
                                   "type": "minecraft:simple_block",
@@ -52,7 +136,7 @@
                           }
                       },
                       {
-                          "chance": 0.15,
+                          "chance": 0.25,
                           "feature": {
                               "feature": {
                                   "type": "minecraft:simple_block",
@@ -60,7 +144,10 @@
                                       "to_place": {
                                           "type": "minecraft:simple_state_provider",
                                           "state": {
-                                              "Name": "minecraft:dandelion"
+                                              "Name": "minecraft:rose_bush",
+                                              "Properties": {
+                                                  "half": "lower"
+                                              }
                                           }
                                       }
                                   }
@@ -96,15 +183,8 @@
                   ],
                   "default": {
                       "feature": {
-                          "type": "minecraft:simple_block",
-                          "config": {
-                              "to_place": {
-                                  "type": "minecraft:simple_state_provider",
-                                  "state": {
-                                      "Name": "minecraft:poppy"
-                                  }
-                              }
-                          }
+                          "type": "minecraft:no_op",
+                          "config": {}
                       },
                       "placement": [
                           {
