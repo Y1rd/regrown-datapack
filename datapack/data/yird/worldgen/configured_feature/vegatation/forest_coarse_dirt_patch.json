@@ -1,0 +1,40 @@
+{
+    "type": "minecraft:random_patch",
+    "config": {
+        "tries": 168,
+        "xz_spread": 5,
+        "y_spread": 2,
+        "feature": {
+            "feature": {
+                "type": "minecraft:replace_single_block",
+                "config": {
+                    "targets": [
+                        {
+                            "target": {
+                                "predicate_type": "minecraft:block_match",
+                                "block": "minecraft:grass_block"
+                            },
+                            "state": {
+                                "Name": "minecraft:coarse_dirt"
+                            }
+                        }
+                    ]
+                }
+            },
+            "placement": [
+                {
+                    "type": "minecraft:block_predicate_filter",
+                    "predicate": {
+                        "type": "minecraft:matching_blocks",
+                        "offset": [
+                            0,
+                            0,
+                            0
+                        ],
+                        "blocks": "minecraft:grass_block"
+                    }
+                }
+            ]
+        }
+    }
+}
