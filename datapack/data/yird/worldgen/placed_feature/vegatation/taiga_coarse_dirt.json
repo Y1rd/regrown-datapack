@@ -1,9 +1,9 @@
 {
-    "feature": "yird:vegatation/forest_coarse_dirt_patch",
+    "feature": "yird:vegatation/taiga_coarse_dirt_patch",
     "placement": [
         {
             "type": "minecraft:rarity_filter",
-            "chance": 2
+            "chance": 3
         },
         {
             "type": "minecraft:in_square"
