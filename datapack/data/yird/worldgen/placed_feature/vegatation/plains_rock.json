@@ -32,6 +32,17 @@
         },
         {
             "type": "minecraft:biome"
+        },
+        {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:air"
+            }
+        },
+        {
+            "type": "minecraft:surface_water_depth_filter",
+            "max_water_depth": 0
         }
     ]
 }
