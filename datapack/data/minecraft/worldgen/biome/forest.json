@@ -71,17 +71,16 @@
     [
       "minecraft:glow_lichen",
       "minecraft:forest_flowers",
-      "yird:trees/oak_vines",
       "yird:trees/trees_forest",
-      "yird:vegatation/forest_gravel",
-      "yird:flowers/forest_flower",
-      "yird:flowers/forest_flower_alt",
-      "yird:vegatation/forest_coarse_dirt",
+      "yird:block_patch/gravel",
+      "yird:block_patch/coarse_dirt",
+      "yird:flowers/forest",
+      "yird:flowers/forest_alt",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "yird:vegatation/forest_grass"
+      "yird:vegatation/grass_forest"
     ],
     [
       "minecraft:freeze_top_layer"

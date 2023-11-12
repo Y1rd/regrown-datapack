@@ -1,7 +1,7 @@
 {
     "type": "minecraft:flower",
     "config": {
-        "tries": 72,
+        "tries": 96,
         "xz_spread": 7,
         "y_spread": 1,
         "feature": {
@@ -10,7 +10,7 @@
                 "config": {
                     "features": [
                         {
-                            "chance": 0.01,
+                            "chance": 0.1,
                             "feature": {
                                 "feature": {
                                     "type": "minecraft:simple_block",
@@ -62,25 +62,10 @@
                     ],
                     "default": {
                         "feature": {
-                            "type": "minecraft:simple_block",
-                            "config": {
-                                "to_place": {
-                                    "type": "minecraft:simple_state_provider",
-                                    "state": {
-                                        "Name": "minecraft:poppy"
-                                    }
-                                }
-                            }
+                            "type": "minecraft:no_op",
+                            "config": {}
                         },
-                        "placement": [
-                            {
-                                "type": "minecraft:block_predicate_filter",
-                                "predicate": {
-                                    "type": "minecraft:matching_blocks",
-                                    "blocks": "minecraft:air"
-                                }
-                            }
-                        ]
+                        "placement": []
                     }
                 }
             },

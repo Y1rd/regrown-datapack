@@ -1,5 +1,5 @@
 {
-    "feature": "yird:vegatation/forest_gravel_patch",
+    "feature": "yird:block_patch/coarse_dirt",
     "placement": [
         {
             "type": "minecraft:count",
@@ -7,7 +7,7 @@
                 "type": "minecraft:weighted_list",
                 "distribution": [
                     {
-                        "weight": 5,
+                        "weight": 4,
                         "data": 0
                     },
                     {
