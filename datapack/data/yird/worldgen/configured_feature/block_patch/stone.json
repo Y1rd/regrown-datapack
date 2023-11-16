@@ -1,16 +1,24 @@
 {
     "type": "minecraft:random_patch",
     "config": {
-        "tries": 16,
-        "xz_spread": 1,
-        "y_spread": 5,
+        "tries": 96,
+        "xz_spread": 3,
+        "y_spread": 1,
         "feature": {
             "feature": {
-                "type": "minecraft:forest_rock",
+                "type": "minecraft:replace_single_block",
                 "config": {
-                    "state": {
-                        "Name": "minecraft:stone"
-                    }
+                    "targets": [
+                        {
+                            "target": {
+                                "predicate_type": "minecraft:block_match",
+                                "block": "minecraft:grass_block"
+                            },
+                            "state": {
+                                "Name": "minecraft:stone"
+                            }
+                        }
+                    ]
                 }
             },
             "placement": [

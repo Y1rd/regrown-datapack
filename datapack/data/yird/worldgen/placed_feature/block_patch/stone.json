@@ -1,5 +1,5 @@
 {
-    "feature": "yird:vegatation/rocks",
+    "feature": "yird:block_patch/stone",
     "placement": [
         {
             "type": "minecraft:count",
@@ -7,7 +7,7 @@
                 "type": "minecraft:weighted_list",
                 "distribution": [
                     {
-                        "weight": 1,
+                        "weight": 2,
                         "data": 0
                     },
                     {
