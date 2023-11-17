@@ -3,8 +3,12 @@
     "config": {
         "features": [
             {
-                "chance": 0.1,
+                "chance": 0.15,
                 "feature": "minecraft:birch_bees_0002"
+            },
+            {
+                "chance": 0.1,
+                "feature": "yird:trees/birch_vines"
             }
         ],
         "default": "minecraft:birch_bees_0002"
