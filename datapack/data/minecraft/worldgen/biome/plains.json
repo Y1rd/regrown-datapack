@@ -69,15 +69,15 @@
       "minecraft:spring_lava"
     ],
     [
-      "yird:block_patch/stone",
       "minecraft:glow_lichen",
       "minecraft:trees_plains",
+      "yird:block_patch/stone",
       "minecraft:flower_plains",
-      "yird:vegatation/grass_plains",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "yird:vegatation/grass_plains"
     ],
     [
       "minecraft:freeze_top_layer"
