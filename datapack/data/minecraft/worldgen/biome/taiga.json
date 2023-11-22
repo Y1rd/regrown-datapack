@@ -72,15 +72,15 @@
       "minecraft:glow_lichen",
       "minecraft:patch_large_fern",
       "minecraft:trees_taiga",
-      "yird:block_patch/coarse_dirt",
-      "yird:block_patch/stone",
-      "yird:flowers/forest",
+      "regrown:block_patch/coarse_dirt",
+      "regrown:block_patch/stone",
+      "regrown:flowers/forest",
       "minecraft:brown_mushroom_taiga",
       "minecraft:red_mushroom_taiga",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:patch_berry_common",
-      "yird:vegatation/grass_taiga"
+      "regrown:vegatation/grass_taiga"
     ],
     [
       "minecraft:freeze_top_layer"

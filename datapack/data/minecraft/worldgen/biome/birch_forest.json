@@ -71,14 +71,14 @@
     [
       "minecraft:glow_lichen",
       "minecraft:forest_flowers",
-      "yird:trees/trees_birch",
-      "yird:block_patch/coarse_dirt",
+      "regrown:trees/trees_birch",
+      "regrown:block_patch/coarse_dirt",
       "minecraft:flower_default",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
-      "yird:vegatation/grass_forest"
+      "regrown:vegatation/grass_forest"
     ],
     [
       "minecraft:freeze_top_layer"

@@ -1,6 +1,10 @@
-# unnamed-datapack
-A datapack to add touches to the default biomes of Minecraft, suitable for anything.
-Currently work-in-progress and only available for 1.18.2. More progress will be made soon, as well as plans for 1.18.x-1.20.x
+# Regrown
+Regrown is a datapack inspired by Geophilic which touches on the default biomes of Minecraft and attempts to make them more alive feeling without going too far. It increases the grass around most biomes, add overgrown trees, more flowers, block patches, and more things. Hopefully allowing it to fit in most worlds, and even most modpacks.
 
-*A screenshot showcasing some current features, just a slighly cooler forest biome.*
-![flameshot_2023-10-30_20-44_1](https://github.com/Y1rd/unnamed-datapack/assets/100542617/dd742335-16e4-4ed2-9527-ea7ad756882c)
+*This is still work-in-progress, and will soon be useable for 1.18.2-1.20.x.*
+
+## Currently updates the following biomes:
+Plains, Forest, Taiga, Birch Forest...
+A few more to come.
+
+**A current screenshot of the new forest biome.**
