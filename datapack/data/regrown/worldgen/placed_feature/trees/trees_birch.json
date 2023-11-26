@@ -1,5 +1,5 @@
 {
-    "feature": "yird:trees/trees_birch",
+    "feature": "regrown:trees/trees_birch",
     "placement": [
         {
             "type": "minecraft:count",

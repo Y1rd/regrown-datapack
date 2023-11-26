@@ -1,5 +1,5 @@
 {
-    "feature": "yird:block_patch/coarse_dirt",
+    "feature": "regrown:block_patch/coarse_dirt",
     "placement": [
         {
             "type": "minecraft:count",

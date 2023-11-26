@@ -1,5 +1,5 @@
 {
-    "feature": "yird:block_patch/stone",
+    "feature": "regrown:block_patch/stone",
     "placement": [
         {
             "type": "minecraft:count",

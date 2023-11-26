@@ -1,5 +1,5 @@
 {
-    "feature": "yird:block_patch/gravel",
+    "feature": "regrown:block_patch/gravel",
     "placement": [
         {
             "type": "minecraft:count",
