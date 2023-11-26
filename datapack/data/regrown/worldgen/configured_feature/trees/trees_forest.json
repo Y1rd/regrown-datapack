@@ -12,7 +12,7 @@
             },
             {
                 "chance": 0.15,
-                "feature": "yird:trees/oak_vines"
+                "feature": "regrown:trees/oak_vines"
             }
         ],
         "default": "minecraft:oak_bees_0002"
