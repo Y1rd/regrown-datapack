@@ -70,10 +70,10 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass",
-      "minecraft:trees_savanna",
+      "minecraft:trees_windswept_savanna",
+      "minecraft:flower_default",
       "regrown:block_patch/coarse_dirt_alt",
-      "minecraft:flower_warm",
+      "regrown:block_patch/stone_alt",
       "minecraft:patch_grass_savanna",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",

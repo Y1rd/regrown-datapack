@@ -6,7 +6,7 @@
       "block_search_extent": 8,
       "offset": 2.0
     },
-    "sky_color": 7254527,
+    "sky_color": 7972607,
     "fog_color": 12638463,
     "water_color": 4159204,
     "water_fog_color": 329011
@@ -70,15 +70,14 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass",
-      "minecraft:trees_savanna",
-      "regrown:block_patch/coarse_dirt_alt",
-      "minecraft:flower_warm",
-      "minecraft:patch_grass_savanna",
+      "minecraft:flower_forest_flowers",
+      "minecraft:trees_flower_forest",
+      "minecraft:flower_flower_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "regrown:vegatation/grass_forest"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -161,16 +160,10 @@
         "maxCount": 4
       },
       {
-        "type": "minecraft:horse",
-        "weight": 1,
+        "type": "minecraft:rabbit",
+        "weight": 4,
         "minCount": 2,
-        "maxCount": 6
-      },
-      {
-        "type": "minecraft:donkey",
-        "weight": 1,
-        "minCount": 1,
-        "maxCount": 1
+        "maxCount": 3
       }
     ],
     "ambient": [
@@ -195,8 +188,8 @@
     "misc": []
   },
   "spawn_costs": {},
-  "precipitation": "none",
-  "temperature": 2.0,
-  "downfall": 0.0,
-  "category": "savanna"
+  "precipitation": "rain",
+  "temperature": 0.7,
+  "downfall": 0.8,
+  "category": "forest"
 }

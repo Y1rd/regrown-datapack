@@ -1,9 +1,9 @@
 {
     "type": "minecraft:random_patch",
     "config": {
-        "tries": 128,
-        "xz_spread": 3,
-        "y_spread": 1,
+        "tries": 192,
+        "xz_spread": 7,
+        "y_spread": 3,
         "feature": {
             "feature": {
                 "type": "minecraft:replace_single_block",
@@ -15,7 +15,7 @@
                                 "block": "minecraft:grass_block"
                             },
                             "state": {
-                                "Name": "minecraft:stone"
+                                "Name": "minecraft:coarse_dirt"
                             }
                         }
                     ]
