@@ -7,8 +7,8 @@
                 "feature": "minecraft:birch_bees_0002"
             },
             {
-                "chance": 0.1,
-                "feature": "regrown:trees/birch_vines"
+                "chance": 0.03,
+                "feature": "minecraft:super_birch_bees_0002"
             }
         ],
         "default": "minecraft:birch_bees_0002"

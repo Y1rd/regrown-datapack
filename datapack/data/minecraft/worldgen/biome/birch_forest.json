@@ -70,10 +70,10 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:forest_flowers",
       "regrown:trees/trees_birch",
       "regrown:block_patch/coarse_dirt",
       "regrown:flowers/forest",
+      "regrown:flowers/birch_white",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
