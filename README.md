@@ -6,4 +6,4 @@ Regrown is a datapack inspired by Geophilic which attemps to improve the default
 This is also my first attempt at creating a datapack, if you suggestions, improvements, or generally want to help me achieve something. Feel free to visit the github, it's completely open source!
 
 ## Biomes
-As of version v1.0, it modifies the following biomes: Forest, Birch Forest, Taiga, Snowy Taiga, Plains, Savanna, Windswept Savanna, Windswept Forest
+**As of version v1.0, it modifies the following biomes:** Forest, Birch Forest, Taiga, Snowy Taiga, Plains, Savanna, Windswept Savanna, Windswept Forest
