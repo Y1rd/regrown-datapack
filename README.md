@@ -1,11 +1,9 @@
-# Regrown
-Regrown is a datapack inspired by Geophilic which touches on the default biomes of Minecraft and attempts to make them more alive feeling without going too far. It increases the grass around most biomes, add overgrown trees, more flowers, block patches, and more things. Hopefully allowing it to fit in most worlds, and even most modpacks.
+![Cool banner image](https://github.com/Y1rd/regrown-datapack/assets/100542617/bbe2e68a-c8cf-44da-bfda-20b884193764)
+# About
 
-*This is still work-in-progress, and will soon be useable for 1.18.2-1.20.x.*
+Regrown is a datapack inspired by Geophilic which attemps to improve the default biomes of Minecraft by adding additional features. It increases the grass around most biomes, add overgrown (oak) trees, more flowers, patches, and more things. It targets and supports Minecraft 1.18.2 or later.
 
-**Currently updates the following biomes:**
-Plains, Forest, Taiga, Birch Forest...
-A few more to come.
+This is also my first attempt at creating a datapack, if you suggestions, improvements, or generally want to help me achieve something. Feel free to visit the github, it's completely open source!
 
-## Screenshots
-![regrown-wip-1](https://github.com/Y1rd/unnamed-datapack/assets/100542617/4af162c3-6c8a-4fd9-9077-832b4d1f58a6)
+## Biomes
+As of version v1.0, it modifies the following biomes: Forest, Birch Forest, Taiga, Snowy Taiga, Plains, Savanna, Windswept Savanna, Windswept Forest
