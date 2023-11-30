@@ -70,8 +70,12 @@
     ],
     [
       "minecraft:glow_lichen",
+      "minecraft:forest_flowers",
       "minecraft:flower_forest_flowers",
       "minecraft:trees_flower_forest",
+      "regrown:flowers/classic",
+      "regrown:flowers/bluebushy",
+      "regrown:flowers/rosebush",
       "minecraft:flower_flower_forest",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
