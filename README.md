@@ -3,8 +3,6 @@
 
 **Regrown is a datapack inspired by Geophilic** which attempts to improve the default biomes of Minecraft by adding small, but notable additional features. It aims to add additional foliage to the rather bland default biomes, along with biome specfic unique features (*e.g. Mushrooms in regular Taiga's*). It also aims to support multiple Minecraft version, generally 1.18.2 or later (which was also a motivating factor!).
 
-Check out the gallery for a glance at all the changes. 🌲
-
 This is also my first dive into creating a datapack, if you suggestions, improvements, or generally want to poke around. Feel free to go right ahead, your right here at the github.
 
 ## Biomes
