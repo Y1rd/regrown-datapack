@@ -1,5 +1,5 @@
 {
-    "feature": "regrown:block_patch/stone_alt",
+    "feature": "regrown:block_patch/podzol",
     "placement": [
         {
             "type": "minecraft:count",
@@ -11,7 +11,7 @@
                         "data": 0
                     },
                     {
-                        "weight": 1,
+                        "weight": 2,
                         "data": 1
                     }
                 ]
@@ -22,21 +22,10 @@
         },
         {
             "type": "minecraft:heightmap",
-            "heightmap": "MOTION_BLOCKING"
+            "heightmap": "OCEAN_FLOOR_WG"
         },
         {
             "type": "minecraft:biome"
-        },
-        {
-            "type": "minecraft:block_predicate_filter",
-            "predicate": {
-                "type": "minecraft:matching_blocks",
-                "blocks": "minecraft:air"
-            }
-        },
-        {
-            "type": "minecraft:surface_water_depth_filter",
-            "max_water_depth": 0
         }
     ]
 }

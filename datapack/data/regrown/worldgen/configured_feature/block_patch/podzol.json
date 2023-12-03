@@ -1,8 +1,8 @@
 {
     "type": "minecraft:random_patch",
     "config": {
-        "tries": 256,
-        "xz_spread": 3,
+        "tries": 512,
+        "xz_spread": 4,
         "y_spread": 2,
         "feature": {
             "feature": {
@@ -15,7 +15,7 @@
                                 "block": "minecraft:grass_block"
                             },
                             "state": {
-                                "Name": "minecraft:stone"
+                                "Name": "minecraft:podzol"
                             }
                         }
                     ]

@@ -70,15 +70,15 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:patch_tall_grass_2",
       "minecraft:patch_sunflower",
       "minecraft:trees_plains",
-      "minecraft:flower_plains",
-      "minecraft:patch_grass_plain",
+      "regrown:block_patch/stone",
+      "regrown:flowers/plains",
       "minecraft:brown_mushroom_normal",
       "minecraft:red_mushroom_normal",
       "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin"
+      "minecraft:patch_pumpkin",
+      "regrown:vegatation/grass_plains"
     ],
     [
       "minecraft:freeze_top_layer"

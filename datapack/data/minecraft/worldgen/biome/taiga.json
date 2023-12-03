@@ -70,9 +70,10 @@
     ],
     [
       "minecraft:glow_lichen",
-      "regrown:block_patch/mushrooms",
       "minecraft:patch_large_fern",
       "minecraft:trees_taiga",
+      "regrown:block_patch/mushrooms",
+      "regrown:block_patch/podzol",
       "regrown:block_patch/coarse_dirt",
       "regrown:block_patch/stone",
       "regrown:flowers/classic",
