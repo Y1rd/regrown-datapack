@@ -4,7 +4,7 @@
       "sound": "minecraft:ambient.cave",
       "tick_delay": 6000,
       "block_search_extent": 8,
-      "offset": 2
+      "offset": 2.0
     },
     "sky_color": 7254527,
     "fog_color": 12638463,
@@ -195,8 +195,8 @@
     "misc": []
   },
   "spawn_costs": {},
-  "temperature": 2,
-  "downfall": 0,
-  "category": "savanna",
-  "has_precipitation": false
+  "precipitation": "none",
+  "temperature": 2.0,
+  "downfall": 0.0,
+  "category": "savanna"
 }
