@@ -73,7 +73,7 @@
     ],
     [
       "minecraft:glow_lichen",
-      "minecraft:trees_windswept_forest",
+      "regrown:trees/trees_windswept_forest",
       "minecraft:flower_default",
       "regrown:block_patch/stone",
       "minecraft:brown_mushroom_normal",
