@@ -3,15 +3,15 @@
     "config": {
         "features": [
             {
-                "chance": 0.6,
+                "chance": 0.2,
                 "feature": "minecraft:spruce_checked"
             },
             {
-                "chance": 0.1,
+                "chance": 0.05,
                 "feature": "minecraft:fancy_oak_checked"
             },
             {
-                "chance": 0.2,
+                "chance": 0.3,
                 "feature": "regrown:trees/spruce_broken"
             }
         ],
